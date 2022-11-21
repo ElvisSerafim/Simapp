@@ -5,6 +5,7 @@
 ## Tecnologias: 
 
 * React Native
+* Typescript
 * Native Base
 * React Navigation
 * Redux Toolkit
